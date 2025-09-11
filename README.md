@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer with Masters in CS from UC Davis</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> kriti@cs.ucd2gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
